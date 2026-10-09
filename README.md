@@ -1,7 +1,6 @@
 # 📚 EduTrust AI
 
-# Output link 
- https://rajeshwari69514-boop.github.io/credora/
+
 
 ## Source-Grounded Academic Assistant
 
