@@ -1,5 +1,8 @@
 # 📚 EduTrust AI
 
+# Output link 
+ https://rajeshwari69514-boop.github.io/credora/
+
 ## Source-Grounded Academic Assistant
 
 EduTrust AI is a domain-specific academic assistant designed to provide
@@ -113,3 +116,4 @@ Streamlit UI
                     ┌──────────────────────┐
                     │     Streamlit UI      │
                     └──────────────────────┘
+
